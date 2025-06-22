@@ -1,2 +1,2 @@
 # Global-Pollution-Analysis
-The objective is explore global pollution data and uncover patterns related to energy recovery using association rule mining.
+The objective is to explore global pollution data and uncover patterns related to energy recovery using association rule mining.
